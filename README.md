@@ -3,7 +3,7 @@
 Creative-thinking front-end developer with a background in design 🌌
 
 
-### Skills
+### Skills 🛠
 
 <div>
    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" />
@@ -14,20 +14,20 @@ Creative-thinking front-end developer with a background in design 🌌
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" />
 </div>
  
-### Learning
+### Learning 🎓
 
 <div>
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" />
 </div>
 
-### Languages
+### Languages 🗿
 
 <a href="https://github.com/VitaliySamborskiy" align="left">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitaliySamborskiy&count=10&title_color=000000&text_color=000000&icon_color=4caf50&bg_color=gradient&gradient_color1=red&gradient_color2=blue&hide_border=false&locale=en&custom_title=Languages&layout=compact" alt="Languages" />
 </a>
 
-### Socials
+### Socials 📬
 
 <p align="left">
   <a href="mailto:vitaliysamborsky2002@gmail.com" target="_blank" rel="noreferrer" style="text-decoration: none; display: flex; align-items: center;">
