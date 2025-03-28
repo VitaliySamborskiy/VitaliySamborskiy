@@ -17,7 +17,7 @@ Creative-thinking front-end developer with a background in design 🌌
 ### Learning 🎓
 
 <div>
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/reactjs-colored.svg" width="36" height="36" alt="React" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" />
 </div>
 
